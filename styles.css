@@ -1,2 +1,13 @@
 
 /* Your CSS Code here. */
+#job{
+	width:150px;
+	height:150px;
+	background-color:#000000;
+	
+}
+.hello-accio{
+	text-color:#ffffff;
+	Left-margin: 32px;
+	Padding:10px;
+}
